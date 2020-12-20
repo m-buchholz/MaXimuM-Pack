@@ -1,0 +1,9 @@
+/**
+!/.gitignore
+!/mods/
+/mods/**
+!/mods/*
+/mods/TheBetweenlands-3.7.1-universal.jar
+!/config
+/config/**
+!/config/*

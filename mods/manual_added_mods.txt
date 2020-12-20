@@ -1,0 +1,5 @@
+taiga-1.12.2-1.3.4.jar - https://www.curseforge.com/minecraft/mc-mods/taiga-tinkers-alloying-addon
+plustic-8.0.0.1.jar - https://github.com/Landmaster/PlusTiC/releases
+ExtraCells-1.12.2-2.6.5.jar - https://www.curseforge.com/minecraft/mc-mods/extracells2
+extrautils2-1.12-1.9.9.jar - https://www.curseforge.com/minecraft/mc-mods/extra-utilities
+DimensionalDoors-1.12.2-3.1.2-UNOFFICIAL.jar - https://www.curseforge.com/minecraft/mc-mods/dimensionaldoors
