@@ -1,10 +1,10 @@
-/**
+.curseclient
 !/.gitignore
 !/README.md
 !/mods/
 /mods/**
 !/mods/*
-/mods/TheBetweenlands-3.7.1-universal.jar
+/mods/TheBetweenlands-3.8.0-universal.jar
 !/config
 /config/**
 !/config/*
