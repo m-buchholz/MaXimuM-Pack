@@ -8,4 +8,4 @@ Installation:
 
 Add mod manually:
 
-- TheBetweenlands-3.7.1-universal.jar (not in repo because of file size)
+- TheBetweenlands-3.8.0-universal.jar (not in repo because of file size)
