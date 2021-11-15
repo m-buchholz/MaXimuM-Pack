@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "0001-01-01T00:00:00",
-  "playedCount": 0,
+  "lastPlayed": "2021-11-15T23:22:43.1522947Z",
+  "playedCount": 3,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -49,7 +49,7 @@
   "cachedScans": [],
   "isValid": true,
   "lastPreviousMatchUpdate": "2021-11-15T22:33:45.2904769Z",
-  "lastRefreshAttempt": "2021-11-15T23:33:45.3764755+01:00",
+  "lastRefreshAttempt": "2021-11-15T23:55:03.1575303+01:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -6043,6 +6043,150 @@
       "installedTargets": null
     },
     {
+      "addonID": 296289,
+      "gameInstanceID": "1c538e2d-f488-42a2-bfb4-85ea3fd0dd6a",
+      "installedFile": {
+        "id": 2919737,
+        "displayName": "JustEnoughIDs 1.0.3-55",
+        "fileName": "JustEnoughIDs-1.0.3-55.jar",
+        "fileDate": "2020-04-03T01:41:44.32Z",
+        "fileLength": 982320,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2919/737/JustEnoughIDs-1.0.3-55.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4193684226,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "org",
+            "fingerprint": 4193441664,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2500220746,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mixins.jeid.init.json",
+            "fingerprint": 2538995634,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mixins.jeid.core.json",
+            "fingerprint": 2113880877,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1101675650,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4241078241,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mixins.jeid.twilightforest.json",
+            "fingerprint": 2703157105,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mixins.jeid.modsupport.json",
+            "fingerprint": 78206484,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mixins.jeid.refmap.json",
+            "fingerprint": 2257065399,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2037562781,
+        "gameVersion": [
+          "1.12.1",
+          "1.12",
+          "Forge",
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000001",
+            "gameVersion": "1.12.1",
+            "gameVersionReleaseDate": "2017-08-03T05:00:00Z",
+            "gameVersionName": "1.12.1",
+            "gameVersionTypeId": 628
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000012",
+            "gameVersion": "1.12",
+            "gameVersionReleaseDate": "2017-06-07T05:00:00Z",
+            "gameVersionName": "1.12",
+            "gameVersionTypeId": 628
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Forge",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2",
+            "gameVersionTypeId": 628
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1815302,
+        "projectId": 296289,
+        "packageFingerprintId": 433899470,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 2160439,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "JustEnoughIDs-1.0.3-55.jar"
+      },
+      "dateInstalled": "2021-11-15T23:22:18.6358097Z",
+      "dateUpdated": "2021-11-15T23:22:18.6368097Z",
+      "dateLastUpdateAttempted": "2021-11-15T23:22:18.6368097Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 310812,
       "gameInstanceID": "1c538e2d-f488-42a2-bfb4-85ea3fd0dd6a",
       "installedFile": {
@@ -8637,14 +8781,14 @@
       "addonID": 229380,
       "gameInstanceID": "1c538e2d-f488-42a2-bfb4-85ea3fd0dd6a",
       "installedFile": {
-        "id": 2966477,
-        "displayName": " InventoryPets-1.12-2.0.6",
-        "fileName": "inventorypets-1.12-2.0.6.jar",
-        "fileDate": "2020-05-27T02:07:42.8Z",
-        "fileLength": 7311822,
+        "id": 3341480,
+        "displayName": "InventoryPets-1.12-2.0.15",
+        "fileName": "inventorypets-1.12-2.0.15.jar",
+        "fileDate": "2021-06-06T22:34:09.087Z",
+        "fileLength": 7305866,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2966/477/inventorypets-1.12-2.0.6.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3341/480/inventorypets-1.12-2.0.15.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -8652,31 +8796,31 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4143705324,
+            "fingerprint": 2464251221,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 1180261171,
+            "fingerprint": 3239136552,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "baubles",
-            "fingerprint": 1384707926,
+            "fingerprint": 1195612949,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 3706537991,
+            "fingerprint": 1081014580,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 3252525871,
+            "fingerprint": 2251179021,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -8687,7 +8831,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 233682548,
+        "packageFingerprint": 3052389056,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -8713,20 +8857,20 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 1875228,
+        "renderCacheId": 2349412,
         "projectId": 229380,
-        "packageFingerprintId": 464131886,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 2245166,
-        "gameVersionId": 4458,
+        "packageFingerprintId": 677644538,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameVersionMappingId": 3015543,
+        "gameVersionId": 6756,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "inventorypets-1.12-2.0.6.jar"
+        "FileNameOnDisk": "inventorypets-1.12-2.0.15.jar"
       },
       "dateInstalled": "2021-11-15T22:33:03.9152298Z",
-      "dateUpdated": "2021-11-15T22:33:03.9152298Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2021-11-15T22:44:10.5455755Z",
+      "dateLastUpdateAttempted": "2021-11-15T22:44:10.5455755Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
