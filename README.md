@@ -2,7 +2,10 @@
 
 Minecraft Version: 1.12.2
 
-Add manually:
--TheBetweenlands-3.7.1-universal.jar
+Installation:
+1. Install Curseforge
+2. Clone repo into [...]\curseforge\minecraft\Instances\MaXimuM-Pack
 
-Clone into [...]\curseforge\minecraft\Instances
+Add mod manually:
+
+- TheBetweenlands-3.7.1-universal.jar (not in repo because of file size)
