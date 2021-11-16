@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-11-15T23:22:43.1522947Z",
-  "playedCount": 3,
+  "lastPlayed": "2021-11-16T00:35:33.0591026Z",
+  "playedCount": 5,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -48,8 +48,8 @@
   "name": "MaXimuM-Pack",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-11-15T22:33:45.2904769Z",
-  "lastRefreshAttempt": "2021-11-15T23:55:03.1575303+01:00",
+  "lastPreviousMatchUpdate": "2021-11-16T00:33:41.9886282Z",
+  "lastRefreshAttempt": "2021-11-16T01:42:40.8980139+01:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -12094,90 +12094,6 @@
       },
       "dateInstalled": "2021-11-15T22:33:02.2251303Z",
       "dateUpdated": "2021-11-15T22:33:02.2251303Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 235107,
-      "gameInstanceID": "1c538e2d-f488-42a2-bfb4-85ea3fd0dd6a",
-      "installedFile": {
-        "id": 2695044,
-        "displayName": "NotEnoughIDs-1.5.4.4",
-        "fileName": "NotEnoughIDs-1.5.4.4.jar",
-        "fileDate": "2019-04-03T09:37:12.163Z",
-        "fileLength": 31782,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2695/44/NotEnoughIDs-1.5.4.4.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3898608288,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "ru",
-            "fingerprint": 3332710985,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "logo.png",
-            "fingerprint": 1385684564,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 1084972241,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 1442030370,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2",
-            "gameVersionTypeId": 628
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1540685,
-        "projectId": 235107,
-        "packageFingerprintId": 305217214,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameVersionMappingId": 1785116,
-        "gameVersionId": 6756,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "NotEnoughIDs-1.5.4.4.jar"
-      },
-      "dateInstalled": "2021-11-15T22:33:40.4647169Z",
-      "dateUpdated": "2021-11-15T22:33:40.4647169Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
